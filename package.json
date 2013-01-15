@@ -1,0 +1,7 @@
+{
+    "name": "tilemill-sync-info",
+    "description": "Shows the syncAccount and syncAccessToken in TileMill Application Settings.",
+    "version": "0.1",
+    "engines": {"tilemill":"0.10.0 || 0.10.1"},
+    "keywords": ["tilemill","syncAccount","syncAccessToken"]
+}
